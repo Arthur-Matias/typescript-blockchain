@@ -35,24 +35,15 @@ This app have a few routes to access it's functions:
     create a transaction with user's wallet and broadcast it to other nodes
 
 > /balance
-
-    view balance
-
+view balance
 > /blocks
-
-    view all blocks on blockchain
-
+view all blocks on blockchain
 > /mine-transactions
-
-    mines new block with transaction data
-
+mines new block with transaction data
 > /public-key
-
-    show wallet's public key
-
+show wallet's public key
 > /transactions
-
-    view all transactions
+view all transactions
 
 ## How to run
 
