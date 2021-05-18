@@ -62,7 +62,7 @@ view all transactions
     cd ts-blockchain
 ```
 
-### then just (both Yarn or NPM):
+#### then just (both Yarn or NPM):
 
 To run in development mode:
 
