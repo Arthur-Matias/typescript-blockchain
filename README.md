@@ -24,7 +24,7 @@ This blockchain has many standard features of popular blockchains like Bitcoin a
 
 ## How does it work
 
-This app have a few routes to access it's functions:
+This app have a few routes to access it's functions (you can test them with [Postman](https://www.postman.com/) or [Insomnia](https://insomnia.rest/)):
 
 > /mine
 
@@ -62,7 +62,7 @@ view all transactions
     cd ts-blockchain
 ```
 
-#### then just (both Yarn or NPM):
+#### then just (both [Yarn](https://yarnpkg.com/) or [NPM](https://www.npmjs.com/)):
 
 To run in development mode:
 
