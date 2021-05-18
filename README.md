@@ -57,7 +57,7 @@ This app have a few routes to access it's functions:
 ## How to run
 
 ```bash
-    git clone URL
+    git clone https://github.com/Arthur-Matias/typescript-blockchain.git
     cd ts-blockchain
 ```
 
