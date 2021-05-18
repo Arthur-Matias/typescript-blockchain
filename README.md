@@ -27,19 +27,33 @@ This blockchain has many standard features of popular blockchains like Bitcoin a
 This app have a few routes to access it's functions:
 
 > /mine
+
 adds new block to blockchain - generic mine endpoint for mining any data
+
 > /transact
+
 create a transaction with user's wallet and broadcast it to other nodes
+
 > /balance
+
 view balance
+
 > /blocks
+
 view all blocks on blockchain
+
 > /mine-transactions
+
 mines new block with transaction data
+
 > /public-key
+
 show wallet's public key
+
 > /transactions
+
 view all transactions
+
 
 ## How to run
 
