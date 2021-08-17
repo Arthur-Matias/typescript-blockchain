@@ -79,4 +79,4 @@ or build and run:
     yarn start
 ```
 
-> based on [this project](https://github.com/gomisha/blockchain)
+> based on [this course](https://www.udemy.com/course/build-blockchain/)
