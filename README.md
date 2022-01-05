@@ -8,7 +8,7 @@
 
 ## What is this
 
-This project is a cyptocurrency blockchain template API, developed with [TypeScript](https://www.typescriptlang.org/), [NodeJs](https://nodejs.org/) and Postman for requests to the API.
+This project is a cyptocurrency blockchain template API, developed with [TypeScript](https://www.typescriptlang.org/) and [NodeJs](https://nodejs.org/).
 
 This blockchain has many standard features of popular blockchains like Bitcoin and Ethereum. Many of these features are taken from the original Bitcoin whitepaper:
 
